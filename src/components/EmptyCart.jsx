@@ -8,7 +8,7 @@ const EmptyCart = () => {
       {" "}
       <div className="cart cart--empty">
         <h2>
-          კალათა ცარიელია <span>😕</span>
+          კალათა ცარიელიაa <span>😕</span>
         </h2>
         <p>
           სავარაუდოდ თქვენ არ შეგიკვეთავთ ჯერ პიცა.
